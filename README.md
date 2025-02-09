@@ -31,6 +31,7 @@ Caso o container tenha sido iniciado com sucesso, você pode acessá-lo com o co
 ```sh
 docker exec -it lab01 bash
 ```
+A partir desse ponto você estará dentro de um ambiente linux com as ferramentas utilitárias necessárias para as práticas instaladas.
 
 ### **3. Desligando o ambiente**
 Ao final do lab, quando você já tiver coletado todas as suas respostas, remova o container
@@ -54,11 +55,11 @@ Utilize o comando `route -n` para verificar a tabela de roteamento e responder:
 3. **Quantas rotas configuradas tem seu computador?**
 ---
 
-## **Questão 2. ipconfig (ifconfig)**
+## **Questão 2. ip (ipconfig/ifconfig)**
 O comando `ip` exibe detalhes de todas as interfaces de rede disponíveis no computador.
 
 ### **Prática**
-Utilize `ip a` para verificar:
+Utilize o comando `ip a` para verificar as questões abaixo:
 1. **Qual o IP da interface de rede?**
 2. **Qual a rede e a máscara?**
 4. **Qual o nome da interface de rede principal?**
