@@ -178,4 +178,3 @@ Faça o commit e push do arquivo de resposta no repositório do laboratório
 Nesta aula, você aprendeu a utilizar diversos comandos fundamentais para o gerenciamento e diagnóstico de redes, tanto no Windows quanto no Linux. Experimente combinar diferentes ferramentas para obter diagnósticos mais completos e melhorar sua compreensão sobre redes de computadores!
 
 🔹 **Dica:** Teste os comandos regularmente para se familiarizar com seu uso e aplicação prática. 🚀
-```
